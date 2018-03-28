@@ -136,4 +136,5 @@ It is *possible* you will need to adjust some settings to get it to work on your
 * [Using reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)
 * [1. AJAX/PHP with reCAPTCHA](https://stackoverflow.com/questions/12527891/php-recaptcha-ajax) - Wan't the whole story, and kinda old.
 * [2. AJAX/PHP with reCAPTCHA](https://stackoverflow.com/questions/47762955/google-recaptcha-v2-with-ajax-and-php) - much newer, and helped me piece a lot of things together.
+* [3. AJAX/PHP with reCAPTCHA](https://stackoverflow.com/questions/49468919/recaptcha-ajax-call-forward-result/49542742#49542742) - Newest question about this same topic that I answered using a link to this page.
 * [TUTORIAL that helped a lot](https://www.kaplankomputing.com/blog/tutorials/php/setting-recaptcha-2-0-ajax-demotutorial/) - I tried to follow this and actually used a lot I learned here to get my final solution. I was still having a little bit of trouble understanding what I was doing though, so I pressed on!
