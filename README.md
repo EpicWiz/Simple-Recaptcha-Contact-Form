@@ -131,6 +131,7 @@ It is *possible* you will need to adjust some settings to get it to work on your
 
 ## Sources
 
+* [Google's reCAPTCHA PHP client library](https://github.com/google/recaptcha)
 * [reCAPTCHA Developers Page](https://developers.google.com/recaptcha/)
 * [Discussion of how reCAPTCHA works](https://stackoverflow.com/questions/27286232/how-does-new-google-recaptcha-work)
 * [Using reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)
