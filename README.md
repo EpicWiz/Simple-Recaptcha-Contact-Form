@@ -105,7 +105,7 @@ Really, the most important thing here is that you get a value of `true` for `suc
 
 ## Potential Issues
 
-###1.
+### 1.
 
 One of the biggest issues I had when getting all this set up was returning the `true` value back to my `JavaScript` so that I could do something in response.
 
@@ -115,11 +115,11 @@ When returning the value for `success` I would get either `1` (which is truthy) 
 
 This confused me because I didn't expect simple `true` and `false` boolean values to be converted in this way when sent from my `PHP` to `JavaScript` functions.
 
-###2.
+### 2.
 
 The provided `site key` and `secret` are from google's reCAPTCHA developers page. They are meant to be used while in development and `ALWAYS return true`. You must exchange them for your own `site key` and `secret` to know if your code is really working.
 
-###3.
+### 3.
 
 In order for mail to be sent without jumping through tons of hoops that you probably aren't yet qualified to even try if you're reading this tutorial, you must have your files hosted on a server on the internet.
 
@@ -136,4 +136,4 @@ It is *possible* you will need to adjust some settings to get it to work on your
 * [Using reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)
 * [1. AJAX/PHP with reCAPTCHA](https://stackoverflow.com/questions/12527891/php-recaptcha-ajax) - Wan't the whole story, and kinda old.
 * [2. AJAX/PHP with reCAPTCHA](https://stackoverflow.com/questions/47762955/google-recaptcha-v2-with-ajax-and-php) - much newer, and helped me piece a lot of things together.
-* [TUTORIAL that helped a lot](https://www.kaplankomputing.com/blog/tutorials/php/setting-recaptcha-2-0-ajax-demotutorial/) I tried to follow this and actually used a lot I learned here to get my final solution. I was still having a little bit of trouble understanding what I was doing though, so I pressed on!
+* [TUTORIAL that helped a lot](https://www.kaplankomputing.com/blog/tutorials/php/setting-recaptcha-2-0-ajax-demotutorial/) - I tried to follow this and actually used a lot I learned here to get my final solution. I was still having a little bit of trouble understanding what I was doing though, so I pressed on!
