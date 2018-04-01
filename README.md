@@ -15,7 +15,7 @@ I made this guide because I had some problems getting it set up, and it was diff
 
 ## reCAPTCHA Keys
 
-The first thing you need to do is visit the reCAPTCHA website (here)[https://www.google.com/recaptcha/intro/] to get your keys.
+The first thing you need to do is visit the reCAPTCHA website [here](https://www.google.com/recaptcha/intro/) to get your keys.
 
 When you get to the page, you will have to click the button in the top right corner that says `get reCAPTCHA`.
 
