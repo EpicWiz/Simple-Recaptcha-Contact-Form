@@ -49,7 +49,7 @@ I put it at the very end, but you can even put it at the beginning if you want, 
 
 Thats pretty much it for `index.html` other than linking the next file, which is `script.js`.
 
-**Note** In the provided files I have the CDN for bootstrap and jQuery. The bootstrap is not really necessary, but `jQuery is` for how I set up the JavaScript page.
+**Note:** In the provided files I have the CDN for bootstrap and jQuery. The bootstrap is not really necessary, but `jQuery is` for how I set up the JavaScript page.
 
 ## JavaScript Setup
 
