@@ -25,7 +25,7 @@ You will be sent to the admin page to register a new site.
 
 Go ahead and insert your label name `Contact Form` or whatever you want, then click the circle next to `reCAPTCHA V2`.
 
-After you click that circle the `Domains` text box will appear. This is where you will enter all the domain names that be authorized to use this `site key` and `secret`.
+After you click that circle the `Domains` text box will appear. This is where you will enter all the domain names that will be authorized to use this `site key` and `secret`.
 
 Although you could use the same key/secret pair for multiple websites, you should try to make a new one for each site in my opinion. It's better practice, and will help you better narrow down security issues in the future should a number of things I can think of right now happen.
 
