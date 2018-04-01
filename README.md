@@ -67,7 +67,7 @@ I did that by just adding `captcha: grecaptcha.getResponse()` as a key/value pai
 
 ## PHP Setup
 
-Again, here you can just check out my provided page that is already excessively for you.
+Again, here you can just check out my provided page that is already commented for you.
 
 This was the most challenging part for me as I'm not the greatest with `PHP`. You might be a ***wiz***, so take a look and hit the ground running!
 
@@ -79,7 +79,7 @@ Although there are plenty of other ways to make this request, we only need to se
 
 I nested `file_get_contents()` inside `json_decode()` just to get the decoding out of the way so we can access the object.
 
-The `JSON` object you get back has 4 key/value pairs. The only two I found a need for were `success`, which returns true or false, and `error_codes`, which gives you 1 of 5 possible problems.
+The `JSON` object you get back has 4 key/value pairs. The only two I found a need for were `success`, which returns true or false, and `error_codes`, which indicates 1 of 5 possible errors (if any).
 
 You will access your `JSON` object's values by using the following method (for those that don't know PHP like me):
 
@@ -127,7 +127,7 @@ All of my testing took place on my `GoDaddy.com` Deluxe Web Hosting account.
 
 It is *possible* you will need to adjust some settings to get it to work on your server if you host elsewhere.
 
-***Please share with me any problems you ran into when trying to figure out how to get reCAPTCHA working so I can address them here to be of further help.***
+***Please share with me any problems you ran into when trying to figure out how to get reCAPTCHA working so I can address them here to be of further help to others.***
 
 ## Sources
 
